@@ -1,1 +1,3 @@
 # Global-Population-Data-Scraper
+
+This project involved developing a Python script to automate the extraction of population data by country from Worldometers. Utilizing libraries such as Requests for HTTP requests and BeautifulSoup for HTML parsing, the script efficiently gathers and processes data into a structured format. The outcome is a comprehensive dataset, saved as a CSV file, which provides valuable insights into global population trends and yearly changes. This project not only showcases my proficiency in Python and web scraping techniques but also my ability to handle and analyze large datasets.
